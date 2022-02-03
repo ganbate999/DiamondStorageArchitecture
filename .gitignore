@@ -1,0 +1,31 @@
+# node
+node_modules
+
+# coverage solidity
+coverage
+coverage.json
+
+# IntelliJ
+.idea
+
+# Lock files
+package-lock.json
+yarn.lock
+
+# Error logs
+yarn-error.log
+
+# Mac OS
+.DS_Store
+
+# env
+.env
+
+# openzeppelin
+.openzeppelin
+
+#Hardhat files
+build
+cache
+artifacts
+typechain
